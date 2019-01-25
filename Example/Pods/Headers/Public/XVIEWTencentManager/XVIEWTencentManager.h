@@ -1,0 +1,1 @@
+../../../../../XVIEWTencentManager/Classes/XVIEWTencentManager.h

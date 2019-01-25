@@ -1,0 +1,30 @@
+{
+  "name": "XVIEWTencentManager",
+  "version": "0.1.5",
+  "summary": "腾讯分享,支付,登陆",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaheng666/XVIEWTencentManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaheng666": "key@xiaheng.net"
+  },
+  "source": {
+    "git": "git@github.com:xiaheng666/XVIEWTecentManager.git",
+    "tag": "0.1.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XVIEWTencentManager/Classes/*.h",
+  "ios": {
+    "vendored_libraries": "XVIEWTencentManager/Classes/*.a"
+  },
+  "dependencies": {
+    "TencentOpenApiSDK": [
+      "~> 2.9.5"
+    ]
+  }
+}
