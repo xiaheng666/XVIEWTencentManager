@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XVIEWTencentManager_Example' do
+  pod 'XVIEWTencentManager', :path => '../'
+
+  target 'XVIEWTencentManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
