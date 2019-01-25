@@ -246,6 +246,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = maomao520benben;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 24N474AU9T;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -466,6 +469,7 @@
 			baseConfigurationReference = 84D15E726B2D0F9AF0C24BF7 /* Pods-XVIEWTencentManager_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 24N474AU9T;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XVIEWTencentManager/XVIEWTencentManager-Prefix.pch";
 				INFOPLIST_FILE = "XVIEWTencentManager/XVIEWTencentManager-Info.plist";
@@ -481,6 +485,7 @@
 			baseConfigurationReference = FC4654C8C2F610DB5ED9BF34 /* Pods-XVIEWTencentManager_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 24N474AU9T;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XVIEWTencentManager/XVIEWTencentManager-Prefix.pch";
 				INFOPLIST_FILE = "XVIEWTencentManager/XVIEWTencentManager-Info.plist";

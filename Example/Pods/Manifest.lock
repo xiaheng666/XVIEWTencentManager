@@ -2,7 +2,7 @@ PODS:
   - TencentOpenApiSDK (2.9.5):
     - TencentOpenApiSDK/Basic (= 2.9.5)
   - TencentOpenApiSDK/Basic (2.9.5)
-  - XVIEWTencentManager (0.1.5):
+  - XVIEWTencentManager (0.1.0):
     - TencentOpenApiSDK (~> 2.9.5)
 
 DEPENDENCIES:
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   TencentOpenApiSDK: a0d7716edd6eb438d65828168e8e5137301b436d
-  XVIEWTencentManager: d278ce512a08fceae72e33828bd6f4b442ba9542
+  XVIEWTencentManager: dff97a5cd3f343a52130456a28c24af322f4221b
 
 PODFILE CHECKSUM: 353e7a641ef696393b29176fdb16518ef986fbd6
 
